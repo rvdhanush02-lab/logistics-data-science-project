@@ -95,7 +95,7 @@ logistics-data-science-project/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/logistics-data-science-project.git
+git clone https://github.com/rvdhanush02-lab/logistics-data-science-project.git
 cd logistics-data-science-project
 
 # Create virtual environment
